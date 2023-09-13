@@ -1,0 +1,11 @@
+{
+  "name": "mini-fe",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tar.exe -a -c -f ..\\another-universe.milkywaygalaxy.io.zip assets Maps index.html .well-known && scp -i D:\\projects\\key\\product\\minigame_13.213.195.65.pem ..\\another-universe.milkywaygalaxy.io.zip ubuntu@13.213.195.65:~/ && deploy.bat"
+  },
+  "dependencies": {
+    "three": "^0.134.0"
+  }
+}

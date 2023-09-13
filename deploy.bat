@@ -1,0 +1,1 @@
+ssh -i D:\\projects\\key\\product\\minigame_13.213.195.65.pem ubuntu@13.213.195.65 "cd /var/www/html/another-universe.milkywaygalaxy.io && sudo mv ~/another-universe.milkywaygalaxy.io.zip /var/www/html/another-universe.milkywaygalaxy.io && sudo unzip -o another-universe.milkywaygalaxy.io.zip"

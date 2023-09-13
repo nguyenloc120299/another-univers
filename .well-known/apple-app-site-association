@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "D34TH79946.space.multiverse.anotheruniverse"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "D34TH79946.space.multiverse.anotheruniverse"
+    ]
+  }
+}
